@@ -7,7 +7,7 @@ const productData = [{
     "brandimg": "https://img-itopya.mncdn.com/cdn/1000/razer-b49c37.png",
     "category": "Klavye",
     "description": "Razer Ornata V2 Hibrid Mecha Membran Türkçe RGB Gaming Klavye",
-    "rating": 4.5,
+    "rating": 4,
     "numReviews": 10
 }, {
     "id": 2,
@@ -30,7 +30,7 @@ const productData = [{
     "brandimg": "https://img-itopya.mncdn.com/cdn/1000/aoc-fdb6b1.jpg",
     "category": "Monitor",
     "description": 'AOC 27" C27G2U/BK 165Hz 1ms VGA 2xHDMI DP VA FHD FreeSync Premium Curved Gaming Monitör',
-    "rating": 3.5,
+    "rating": 3,
     "numReviews": 4
 
 },
@@ -44,7 +44,7 @@ const productData = [{
     "category": "Phone",
     "description": 'Apple iPhone 14 Pro Max 128GB Space Black',
     "rating": 5,
-    "numReviews": 23123
+    "numReviews": 342
 },
 {
     "id": 5,
@@ -55,8 +55,8 @@ const productData = [{
     "brandimg": "https://img-itopya.mncdn.com/cdn/1000/gigabyte-5e1a46.jpg",
     "category": "Graphic Card",
     "description": 'GIGABYTE Radeon RX 6750 XT GAMING OC 12GB GDDR6 192 Bit Ekran Kartı',
-    "rating": 0,
-    "numReviews": 0
+    "rating": 2,
+    "numReviews": 12
 }
 
 ]

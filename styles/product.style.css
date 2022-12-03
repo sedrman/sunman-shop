@@ -21,3 +21,7 @@ body{
 .checked {
     color: orange;
   }
+
+.brandimg{
+    height: 30px;
+}
