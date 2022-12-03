@@ -5,7 +5,7 @@ const productData = [{
     "image": "https://img-itopya.mncdn.com/cdn/350/razer-ornata-v2-hibrid-mecha-membran-switch-chroma-rgb-ingilizce-gaming-klavye-4-5444e4.jpg",
     "brand": "Razer",
     "brandimg": "https://img-itopya.mncdn.com/cdn/1000/razer-b49c37.png",
-    "category": "Klavye",
+    "category": "Keyboard",
     "description": "Razer Ornata V2 Hibrid Mecha Membran Türkçe RGB Gaming Klavye",
     "rating": 4,
     "numReviews": 10
