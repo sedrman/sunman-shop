@@ -1,0 +1,12 @@
+:root{
+    --backgroundcolor: #ffffff;
+    --primaryColor: #000000;
+    --secondaryColor: #b39032;
+    --cardlinkColor: #295699;
+}
+
+body{
+    background-color: var(--bacgroundcolor);
+}
+
+

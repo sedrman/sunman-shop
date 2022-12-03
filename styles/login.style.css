@@ -1,0 +1,37 @@
+@import 'style.css';
+
+.home div{
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+    font-family: 'Lora', serif;
+    font-size: large;
+    border: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.signin{
+    font-family: 'Lora', serif;
+    font-size: x-large
+    
+
+}
+
+.loginbutton{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.signinpage{
+
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 80vh;
+    align-items: center;
+    justify-content: space-around;
+
+}

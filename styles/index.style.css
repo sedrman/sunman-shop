@@ -1,0 +1,41 @@
+@import "style.css";
+
+body{
+    margin: 0;
+}
+
+.cardlink a{
+    text-decoration: none !important;
+    color: black !important;
+
+}
+.cardlink a:hover{
+    color: var(--cardlinkColor) !important;
+}
+
+.card{
+    background-color: var(--bacgroundcolor);
+    color: var(--primaryColor);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+}
+
+.card-brand img{
+    height: 30px;
+    
+}
+
+.card-img-top{
+    height: 280px;
+    object-fit: contain;
+    border-radius: 10px;
+
+}
