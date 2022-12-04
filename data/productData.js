@@ -85,7 +85,31 @@ const productData = [{
     "rating": 5,
     "numReviews": 12
 
+},
+{
 
-}
+    "id": 8,
+    "name": 'Razer BlackShark V2',
+    "price": 750,
+    "image": "https://img-itopya.mncdn.com/cdn/350/razer-blackshark-v2-x-thx-sertifikali-gaming-kulaklik-5f0a69.jpg",
+    "brand": "Razer",
+    "brandimg": "https://img-itopya.mncdn.com/cdn/1000/razer-b49c37.png",
+    "category": "Headset",
+    "description": 'Razer BlackShark V2 X THX Sertifikalı Gaming Kulaklık',
+    "rating": 5,
+    "numReviews": 80
 
+},
+{
+    "id": 9,
+    "name": 'Corsair K55 RGB',
+    "price": 749,
+    "image": "https://img-itopya.mncdn.com/cdn/350/corsair-k55-rgb-pro-xt-membrane-turkce-rgb-gaming-klavye-9-de31b9.jpg",
+    "brand": "Corsair",
+    "brandimg": "https://img-itopya.mncdn.com/cdn/1000/corsair-f72abb.jpg",
+    "category": "Keyboard",
+    "description": 'Corsair K55 RGB PRO XT Membrane Türkçe RGB Gaming Klavye',
+    "rating": 5,
+    "numReviews": 9
+},
 ]
