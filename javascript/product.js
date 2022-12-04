@@ -1,8 +1,6 @@
-//how to get window params
 var url = window.location.href;
 var params = url.split("?")[1];
 var param = params.split("&");
-console.log(param);
 
 const product = document.getElementById("product");
 
