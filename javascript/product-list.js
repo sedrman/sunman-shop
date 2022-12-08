@@ -3,7 +3,7 @@ const productsList = document.getElementById("products")
 productData.map((data)=>{
     content = 
     `
-    <div class="card" style="width:324px">
+    <div class="card">
     <a href="product.html?id=${data.id}"><img class="card-img-top" src="${data.image}"></a>
     <div class="card-body">
       <h4 class="card-title cardlink"><a href="product.html?id=${data.id}">${data.name}</a></h4>

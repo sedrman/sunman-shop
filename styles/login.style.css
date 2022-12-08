@@ -7,9 +7,7 @@
     height: calc(100vh - 63.28px);
     align-items: center;
     justify-content: space-around;
-    background: #FDC830;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #e7e7e7;
 
 }
 
@@ -35,5 +33,28 @@
 .loginbutton{
     display: flex;
     justify-content: space-around;
+
+}
+
+
+.navbar{
+    background-color: #ffffff;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 1.2em;
+    border-radius: 0;
+    font-family: 'Lora', serif;
+    font-size: large;
+    border: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.navbar{
+
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 
 }
